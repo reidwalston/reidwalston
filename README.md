@@ -22,9 +22,7 @@
 
 
  ## 💬How To Reach Me:
-✔️Facebook: **[Reid Walston
-](https://www.facebook.com/kamrulthepro)<br>**
-✔️Linkedin: **[Reid Walston](https://www.linkedin.com/in/kamrulthepro/)<br>**
+✔️Linkedin: **[Thomas Walston](https://www.linkedin.com/in/kamrulthepro/)<br>**
 ✔️E-Mail: **thomasreidwalston@gmail.com**
 
 
