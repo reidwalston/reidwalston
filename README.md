@@ -15,6 +15,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reidwalston)](https://github.com/anuraghazra/github-readme-stats)
 
 
+ ## 🛑HOW TO REACH ME:
+✔️Facebook: **[Reid Walston
+](https://www.facebook.com/kamrulthepro)<br>**
+✔️Linkedin: **[Reid Walston](https://www.linkedin.com/in/kamrulthepro/)<br>**
+✔️E-Mail: **thomasreidwalston@gmail.com**
+
+
 ## My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reidwalston&show_icons=true&count_private=true)  
 
