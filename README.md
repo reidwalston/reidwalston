@@ -2,7 +2,7 @@
 ![Hi There](https://github.com/reidwalston/reidwalston/blob/main/welcome1.png?raw=true)
 ![Profile views](https://gpvc.arturio.dev/reidwalston)
 
-This is Thomas Walston. I'm a Traffic Analysis Proficient. <br>
+#### This is Thomas Walston. I'm a Traffic Analysis Proficient. <br>
 **🎗My Skills & Experiences**<br>
 ✅ Masters degree in Education.<br>
 ✅ Comptia Networking+ Certified<br>
