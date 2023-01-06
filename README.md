@@ -2,8 +2,16 @@
 ![Hi There](https://github.com/reidwalston/reidwalston/blob/main/welcome1.png?raw=true)
 ![Profile views](https://gpvc.arturio.dev/reidwalston)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+This is Thomas Walston. I'm a Traffic Analysis Proficient.
+**🎗My Skills**
+✅ Masters degree in Education.
+✅ Comptia Networking+ Certified
+✅ Comptia Cybersecurity Certificatied (Pending February 2023)
+✅ Linux Proficient
+✅ Python Proficient
 
+
+Teacher for 12 years.
 
 ## 👇Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reidwalston)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/reid-walston-01354a260/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/reid.walsto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/reidwalston/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/reidwalston)  
