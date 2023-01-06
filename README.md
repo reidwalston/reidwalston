@@ -2,13 +2,13 @@
 ![Hi There](https://github.com/reidwalston/reidwalston/blob/main/welcome1.png?raw=true)
 ![Profile views](https://gpvc.arturio.dev/reidwalston)
 
-This is Thomas Walston. I'm a Traffic Analysis Proficient.
-**🎗My Skills**
-✅ Masters degree in Education.
-✅ Comptia Networking+ Certified
-✅ Comptia Cybersecurity Certificatied (Pending February 2023)
-✅ Linux Proficient
-✅ Python Proficient
+This is Thomas Walston. I'm a Traffic Analysis Proficient. <br>
+**🎗My Skills**<br>
+✅ Masters degree in Education.<br>
+✅ Comptia Networking+ Certified<br>
+✅ Comptia Cybersecurity Certificatied (Pending February 2023)<br>
+✅ Linux Proficient<br>
+✅ Python Proficient<br>
 
 
 Teacher for 12 years.
